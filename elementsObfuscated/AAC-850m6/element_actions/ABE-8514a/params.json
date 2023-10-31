@@ -1,0 +1,19 @@
+{
+    "caption": "Extract base64 from element",
+    "fields": {
+        "ABF": {
+            "caption": "id",
+            "editor": "DynamicValue",
+            "name": "id",
+            "rank": 0,
+            "value": "text"
+        },
+        "ABG": {
+            "caption": "name",
+            "editor": "DynamicValue",
+            "name": "name",
+            "rank": 1,
+            "value": "text"
+        }
+    }
+}

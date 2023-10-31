@@ -1,0 +1,19 @@
+{
+    "caption": "Download Image from element",
+    "fields": {
+        "AAy": {
+            "caption": "id",
+            "editor": "DynamicValue",
+            "name": "id",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAz": {
+            "caption": "name",
+            "editor": "DynamicValue",
+            "name": "name",
+            "rank": 1,
+            "value": "text"
+        }
+    }
+}
